@@ -1,75 +1,72 @@
-# Full Stack Developer Resume & Portfolio
+<!-- BACKGROUND BANNER -->
+<p align="center">
+  <img src="banner.png" alt="Portfolio Banner" width="100%">
+</p>
 
-![Portfolio Screenshot](portfolio-screenshot.png?raw=true "Full Stack Developer Resume")
+<h1 align="center">Full Stack Developer Resume & Portfolio</h1>
+
+<p align="center">
+  <b>Modern • Responsive • Recruiter-Friendly</b>
+</p>
 
 <div align="center">
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/saadaoui123/portfolio-resume">
-
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/saadaoui123/portfolio-resume">
-
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/saadaoui123/portfolio-resume?style=flat&color=yellow">
-
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/saadaoui123/portfolio-resume?style=flat&color=success">
-
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/saadaoui123/portfolio-resume">
-
-## Modern Resume & Portfolio Website for Software Developers
+<img src="https://img.shields.io/github/stars/saadaoui123/portfolio-resume?color=yellow">
+<img src="https://img.shields.io/github/forks/saadaoui123/portfolio-resume?color=success">
+<img src="https://img.shields.io/github/languages/top/saadaoui123/portfolio-resume">
+<img src="https://img.shields.io/github/last-commit/saadaoui123/portfolio-resume">
 
 </div>
 
-### 🔗 Live Demo
-👉 https://your-demo-link.vercel.app
-
 ---
 
-## 📌 Description
+## 👋 About Me
 
-This project is a **modern and responsive resume & portfolio website** designed for software developers.  
-It allows you to present your **skills, projects, education, and experience** in a clean and professional way.
-
-The website is optimized for:
-- 📱 Mobile devices  
-- ⚡ Fast loading  
-- 🎯 Recruiter-friendly presentation  
+🎓 Student in **Information Systems Development** at **ISET Sfax**  
+💻 **Full Stack Junior Developer**  
+🚀 Passionate about Web & Software Development
 
 ---
 
 ## 🚀 Features
 
-- Fully responsive design
-- Clean & modern UI
-- Easy to customize data
-- SEO friendly
-- Ready for deployment
-- GitHub & LinkedIn integration
+- Clean UI with background banner
+- Responsive design
+- Easy customization
+- Perfect for recruiters
+- Fast loading
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
 - ⚛️ React.js
-- 🌐 HTML5, CSS3, JavaScript
-- 🎨 Tailwind CSS / Bootstrap
-- 🔗 REST APIs
-- 🚀 Vercel (Deployment)
+- 🟢 Node.js
+- 🔵 C# .NET
+- ☕ Java
+- 🍃 MongoDB
+- 🐬 MySQL
 
 ---
 
-## ⚙️ Getting Started
+## 📂 Projects
 
-### 1. Prerequisites
-
-Make sure you have installed:
-- Node.js  
-https://nodejs.org/en/download/
-- Git  
-https://git-scm.com/
+- **MY Notes** – Note management web app  
+- **E-Commerce React App** – CRUD products  
+- **E-Learning Platform** – Dashboard & stats
 
 ---
 
-### 2. Clone the Repository
+## 🌍 Live Demo
+👉 https://your-demo-link.vercel.app
 
-```bash
-git clone https://github.com/saadaoui123/portfolio-resume.git
-cd portfolio-resume
+---
+
+## 📫 Contact
+
+- 📧 Email: saifsaadaoui064@gmail.com
+- 💼 GitHub: https://github.com/saadaoui123
+
+---
+
+⭐ If you like this project, don’t forget to star it!
