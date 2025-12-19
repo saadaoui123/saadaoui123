@@ -1,80 +1,75 @@
-## Hi there 👋 I'm Saif Eddine Saadaoui
+# Full Stack Developer Resume & Portfolio
 
-🎓 **Student in Information Systems Development (DSI)** at **ISET Sfax**  
-💻 **Full-Stack Junior Developer**  
-🚀 Passionate about Web Development, Software Engineering & New Technologies  
+![Portfolio Screenshot](portfolio-screenshot.png?raw=true "Full Stack Developer Resume")
+
+<div align="center">
+
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/saadaoui123/portfolio-resume">
+
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/saadaoui123/portfolio-resume">
+
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/saadaoui123/portfolio-resume?style=flat&color=yellow">
+
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/saadaoui123/portfolio-resume?style=flat&color=success">
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/saadaoui123/portfolio-resume">
+
+## Modern Resume & Portfolio Website for Software Developers
+
+</div>
+
+### 🔗 Live Demo
+👉 https://your-demo-link.vercel.app
 
 ---
 
-## 🔧 Technologies & Tools
+## 📌 Description
 
-### Front-End
+This project is a **modern and responsive resume & portfolio website** designed for software developers.  
+It allows you to present your **skills, projects, education, and experience** in a clean and professional way.
+
+The website is optimized for:
+- 📱 Mobile devices  
+- ⚡ Fast loading  
+- 🎯 Recruiter-friendly presentation  
+
+---
+
+## 🚀 Features
+
+- Fully responsive design
+- Clean & modern UI
+- Easy to customize data
+- SEO friendly
+- Ready for deployment
+- GitHub & LinkedIn integration
+
+---
+
+## 🛠️ Built With
+
 - ⚛️ React.js
 - 🌐 HTML5, CSS3, JavaScript
-- 🎨 Bootstrap, Tailwind CSS
-
-### Back-End
-- 🟢 Node.js, Express.js
-- ☕ Java
-- 🔵 C# .NET / ASP.NET Core
-- 🐘 PHP
-
-### Databases
-- 🍃 MongoDB
-- 🐬 MySQL
-- 🗄️ SQLite
-
-### Other Tools
-- 🧠 UML (Class, Use Case, Sequence Diagrams)
-- 🧪 JUnit (Unit Testing)
-- 🔧 Git & GitHub
-- 📦 REST APIs
+- 🎨 Tailwind CSS / Bootstrap
+- 🔗 REST APIs
+- 🚀 Vercel (Deployment)
 
 ---
 
-## 📌 Projects
+## ⚙️ Getting Started
 
-- 📝 **MY Notes**  
-  Web application for note management with user/admin roles  
-  **Tech:** Angular, PHP, JavaScript
+### 1. Prerequisites
 
-- 🛒 **E-Commerce Website (React)**  
-  CRUD product management with MongoDB  
-  **Tech:** React, Node.js, MongoDB
-
-- 🎓 **E-Learning Platform (In progress)**  
-  Similar to UVT platform with teacher & student dashboards  
-  **Tech:** Django / Node.js (concept & implementation)
+Make sure you have installed:
+- Node.js  
+https://nodejs.org/en/download/
+- Git  
+https://git-scm.com/
 
 ---
 
-## 🌱 Currently Learning
-- ASP.NET Core MVC & API
-- Entity Framework Core
-- Blazor
-- Advanced Backend Architecture
+### 2. Clone the Repository
 
----
-
-## 🤝 Looking For
-- Internship / PFE opportunities
-- Collaboration on web & software projects
-- Real-world development experience
-
----
-
-## 📫 Contact Me
-- 📧 Email: **saifsaadaoui064@gmail.com**
-- 💼 GitHub: [github.com/saadaoui123](https://github.com/saadaoui123)
-
----
-
-## 📊 GitHub Stats
-
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadaoui123&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadaoui123&layout=compact&theme=tokyonight)
-
----
-
-⭐ *Feel free to explore my repositories and connect with me!*
+```bash
+git clone https://github.com/saadaoui123/portfolio-resume.git
+cd portfolio-resume
