@@ -1,19 +1,19 @@
-# 🚀 Portfolio Professionnel – Saif Eddine Saadaoui
+#  Portfolio Professionnel – Saif Eddine Saadaoui
 
 Profile interactif et moderne développé en **HTML & CSS**  
 Parfait pour **GitHub Pages, Portfolio en ligne, LinkedIn** ou projets PFE.
 
 ---
 
-## 👤 À propos
-🎓 Étudiant en Développement des Systèmes d’Information  
-💻 Compétences Web: React, Angular, Node.js, ASP.NET Core, .NET  
-🤖 Intéressé par l’IA générative, STT/TTS et solutions IPBX  
-📌 Passionné par la création de systèmes intelligents et interactifs
+##  À propos
+ Étudiant en Développement des Systèmes d’Information  
+ Compétences Web: React, Angular, Node.js, ASP.NET Core, .NET  
+ Intéressé par l’IA générative, STT/TTS et solutions IPBX  
+ Passionné par la création de systèmes intelligents et interactifs
 
 ---
 
-## 🖼️ Aperçu
+##  Aperçu
 ![Cover](images/cover.jpg)  
 ![Profile](images/profile.jpg)
 
@@ -27,4 +27,3 @@ Parfait pour **GitHub Pages, Portfolio en ligne, LinkedIn** ou projets PFE.
 
 ---
 
-## 📂 Structure du projet
